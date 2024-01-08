@@ -1,17 +1,6 @@
 {
-  "name": "Matomo analytics",
-  "component": true,
-  "license_url": null,
-  "about_url": null,
-  "authors": null,
-  "theme_version": null,
-  "minimum_discourse_version": null,
-  "maximum_discourse_version": null,
-  "assets": {
-  },
-  "color_schemes": {
-  },
-  "modifiers": {
-  },
-  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+  "name": "Matomo Analytics",
+  "about_url": "https://meta.discourse.org/t/how-to-enable-matomo-analytics-on-discourse/33090",
+  "license_url": "https://github.com/discourse/discourse-matomo-analytics/blob/master/LICENSE",
+  "component": true
 }
